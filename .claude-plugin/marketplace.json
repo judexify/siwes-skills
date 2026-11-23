@@ -1,0 +1,14 @@
+{
+  "name": "siwes-skill",
+  "owner": {
+    "name": "Judexify"
+  },
+  "plugins": [
+    {
+      "name": "siwes",
+      "source": "./",
+      "description": "Generate a complete, formatted Nigerian university or polytechnic SIWES technical report (.docx) with clean image placeholders.",
+      "skills": ["./skills/siwes"]
+    }
+  ]
+}
